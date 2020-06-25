@@ -1,0 +1,5 @@
+dist*
+out
+stack.yaml.lock
+.stack-work
+.ccls-cache
